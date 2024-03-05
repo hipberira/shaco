@@ -1,1 +1,6 @@
-elsadmemmedovz99@gmail.com
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xD2eB6458F9462600742F0cEfDD20DDcb2ff66b4b'
+quorum: 1
